@@ -1,0 +1,26 @@
+{
+  "packs": {
+    "battle": {
+      "bytes": 2754120,
+      "label": "battle resources",
+      "label_zh": "基本戰鬥資源",
+      "sha256": "389087c83a81447cae455542b63d8fb2c6f840d0a8e7930bd4cbaf0090ee5f17",
+      "url": "assets/battle-389087c83a81447c.pck"
+    },
+    "cards": {
+      "bytes": 23308420,
+      "label": "card illustrations",
+      "label_zh": "卡牌插畫",
+      "sha256": "6f84f941db45feccb4b5781703156682f877aaae87e7e2c85bdc6291bc361fa5",
+      "url": "assets/cards-6f84f941db45fecc.pck"
+    },
+    "effects": {
+      "bytes": 6494244,
+      "label": "skill effects",
+      "label_zh": "技能特效",
+      "sha256": "0a801ec6e4e53872ffc2366e50ce9fdc451d9488a4abd0b7f9530f2e12d157c5",
+      "url": "assets/effects-0a801ec6e4e53872.pck"
+    }
+  },
+  "version": 1
+}
