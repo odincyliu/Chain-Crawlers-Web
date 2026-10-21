@@ -1,16 +1,16 @@
 {
   "bootstrap": {
-    "bytes": 11642348,
-    "sha256": "9438e62a941f5c6d51393f280697063f693f85648f5510bb525339f655907e70",
-    "url": "assets/bootstrap-9438e62a941f5c6d.pck"
+    "bytes": 11642284,
+    "sha256": "7d496587988d1850a86203eaf4d3ec392c37a161128bdf76bc77ce084eb176fc",
+    "url": "assets/bootstrap-7d496587988d1850.pck"
   },
   "packs": {
     "battle": {
-      "bytes": 2754120,
+      "bytes": 2754088,
       "label": "battle resources",
       "label_zh": "基本戰鬥資源",
-      "sha256": "389087c83a81447cae455542b63d8fb2c6f840d0a8e7930bd4cbaf0090ee5f17",
-      "url": "assets/battle-389087c83a81447c.pck"
+      "sha256": "be1521cbd355957a3854c1c8386714d5f6ff083be361c7d3ac8d34810d6a5a7a",
+      "url": "assets/battle-be1521cbd355957a.pck"
     },
     "cards": {
       "bytes": 23308420,
@@ -23,8 +23,8 @@
       "bytes": 6494244,
       "label": "skill effects",
       "label_zh": "技能特效",
-      "sha256": "0a801ec6e4e53872ffc2366e50ce9fdc451d9488a4abd0b7f9530f2e12d157c5",
-      "url": "assets/effects-0a801ec6e4e53872.pck"
+      "sha256": "bce93203a8e46ea8ec02a5536214f45e5c5585892aab8d0890981f86cf781cee",
+      "url": "assets/effects-bce93203a8e46ea8.pck"
     }
   },
   "version": 1
