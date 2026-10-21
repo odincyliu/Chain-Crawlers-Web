@@ -1,8 +1,8 @@
 {
   "bootstrap": {
-    "bytes": 11655704,
-    "sha256": "2a6cddf54ec58afef2a9b162c14f9760f18a321c26f5f75da882f56e77b0c85a",
-    "url": "assets/bootstrap-2a6cddf54ec58afe.pck"
+    "bytes": 11658988,
+    "sha256": "c10387ec0b87483a3a7eeef7c35cfb40f5916e0594e4bfbf3ede441b563ecc56",
+    "url": "assets/bootstrap-c10387ec0b87483a.pck"
   },
   "packs": {
     "battle": {
